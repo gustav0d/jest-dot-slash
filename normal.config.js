@@ -1,3 +1,3 @@
 module.exports = {
-  testRegex: 'normal/1.test.js',
+  testRegex: '__tests__/1.test.js',
 };

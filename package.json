@@ -1,0 +1,12 @@
+{
+  "name": "jest-dot-slash",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.0.0-beta.8"
+  }
+}
